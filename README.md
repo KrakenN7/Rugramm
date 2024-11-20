@@ -21,6 +21,6 @@
   - Postgresql
   - Html
   - Css
-  - Bootstrap или Tailwind ?
+  - Bootstrap
 
   
